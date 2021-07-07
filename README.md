@@ -1,6 +1,6 @@
 # login_page_front_end
 
-##TODOs:
+## TODOs:
 - [ ] Add English to the login page
 - [ ] Add a dark theme to the login page
 - [ ] Add Register page to this project
